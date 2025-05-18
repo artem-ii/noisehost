@@ -3,9 +3,19 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+image: "/assets/images/otkritka.jpeg"
+
 ---
 
+<h1>Слушайте сингл "открытка"</h1>
+
+<div align="center">
+<img src="{{page.image}}" alt="Сингл открытка" style="width:600px;"/>
+</div>
 <br>
+{% include socials.html %}
+<br>
+
 ---
 
 # Релизы

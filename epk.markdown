@@ -12,13 +12,22 @@ youtube:
 ---
 
 
-> Горячая смесь панковского напора, шугейзного шума
-> и эмарной лирики, да еще и с нотками Radiohead!
->
-> E:\Music\Emo
+
+
+<div class="quote-container">
+  <p class="quote">
+    "Горячая смесь панковского напора, шугейзного шума и эмарной лирики, да еще и с нотками Radiohead!"
+  </p>
+  <a class="author" href="https://open.spotify.com/user/w1he2s1iek4l2pwf28bdsbz5v"> 
+    E:\music\emo
+  </a>
+</div>
+
+
 <br>
 
 
+{% include socials.html %}
 
 # Релизы
 
