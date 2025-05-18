@@ -4,6 +4,11 @@
 
 layout: home
 permalink: /epk/
+image: /assets/images/background.jpeg
+instagram:
+  snimki: CRy7NB0KSG1
+youtube:
+  loophole: yYFo4nFt56s
 ---
 
 
@@ -11,8 +16,9 @@ permalink: /epk/
 > и эмарной лирики, да еще и с нотками Radiohead!
 >
 > E:\Music\Emo
+<br>
 
----
+
 
 # Релизы
 
@@ -22,14 +28,19 @@ permalink: /epk/
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=3098957777/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=4177025124/transparent=true/" seamless><a href="https://noisehost.bandcamp.com/album/--2">мы снова встретимся by noisehost</a></iframe>
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=3098957777/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=4067037766/transparent=true/" seamless><a href="https://noisehost.bandcamp.com/album/--2">мы снова встретимся by noisehost</a></iframe>
 </div>
----
+<br>
 
-# Videos
 
-<div class="insta_containter">
-{% include instagram_player.html id=page.instagram.na_zakatnom_nebe %}
 
-{% include instagram_player.html id=page.instagram.vsyo_normalno %}
+# Видео
+
+<div>
+{% include youtube_player.html id=page.youtube.loophole %}
 </div>
 
-{% include youtube_player.html id=page.youtube.loophole %}
+
+<br>
+<div class="insta_containter">
+{% include instagram_player.html id=page.instagram.snimki %}
+</div>
+
