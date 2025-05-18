@@ -10,7 +10,7 @@ image: "/assets/images/otkritka.jpeg"
 <h1>Слушайте сингл "открытка"</h1>
 
 <div align="center">
-<img src="{{page.image}}" alt="Сингл открытка" style="width:600px;"/>
+<img src="{{page.image}}" alt="Сингл открытка" style="width:30em;"/>
 </div>
 <br>
 {% include socials.html %}
