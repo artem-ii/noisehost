@@ -29,7 +29,7 @@ youtube:
 
 {% include socials.html %}
 
-# Релизы
+## Релизы
 
 <div width="fit-content">
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=464641135/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=2375392931/transparent=true/" seamless><a href="https://noisehost.bandcamp.com/album/-">пена by noisehost</a></iframe>
@@ -41,7 +41,7 @@ youtube:
 
 
 
-# Видео
+## Видео
 
 <div>
 {% include youtube_player.html id=page.youtube.loophole %}
