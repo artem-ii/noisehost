@@ -11,7 +11,7 @@ title: noisehost
 <h2>Слушайте сингл "открытка"</h2>
 
 <div align="center">
-<img src="{{page.image}}" alt="Сингл открытка" style="width:30em;"/>
+<iframe style="border: 0; width: 350px; height: 442px;" src="https://bandcamp.com/EmbeddedPlayer/track=1035480687/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://noisehost.bandcamp.com/track/--12">открытка by noisehost</a></iframe>
 </div>
 <br>
 {% include socials.html %}
