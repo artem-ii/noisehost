@@ -9,6 +9,7 @@ instagram:
   snimki: CRy7NB0KSG1
 youtube:
   loophole: yYFo4nFt56s
+title: noisehost EPK
 ---
 
 

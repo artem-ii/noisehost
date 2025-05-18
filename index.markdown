@@ -4,6 +4,7 @@
 
 layout: home
 image: "/assets/images/otkritka.jpeg"
+title: noisehost
 
 ---
 
