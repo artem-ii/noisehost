@@ -8,7 +8,7 @@ image: "/assets/images/otkritka.jpeg"
 
 ---
 
-<h2><a href="https://tr.ee/6RlFCk9kYw">Слушайте сингл "открытка"</a></h2>
+<h2><a href="https://tr.ee/JEQA_NJzVg">Слушайте сингл "открытка"</a></h2>
 <!-- HTML !-->
 
 <div align="center">
