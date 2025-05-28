@@ -9,20 +9,80 @@ instagram:
   snimki: CRy7NB0KSG1
 youtube:
   loophole: yYFo4nFt56s
+  helsinki: QYnpxBKaCAM
 title: noisehost EPK
 ---
 
 
 
 
-<div class="quote-container">
-  <p class="quote">
-    "Горячая смесь панковского напора, шугейзного шума и эмарной лирики, да еще и с нотками Radiohead!"
-  </p>
+
+
+
+## noisehost — инди-музыка, которую хочется слушать внимательно
+
+**noisehost** — это сольный музыкальный проект, сочетающий вокалоцентричную инди-музыку, живые эмоции и обстановку бережного звучания. За проектом стоит артист, живший в пяти странах, сменивший академическую карьеру на путь независимого музыканта. Его музыка — отражение личных перемен, поездок, любви, потерь и внутреннего поиска.
+
+### Звучание
+
+Звучание noisehost — это смесь инди-рока, постпанка, эмбиента и эмо. Первый EP *«Пена»* (2021) — шумный и быстрый, напоминает русскую версию Ovlov, с вокалом в духе Radiohead. Второй EP *«Мы снова встретимся»* (2023) — более спокойный и лиричный, с темами войны, ностальгии и одиночества на фоне северных пейзажей.
+
+
+
+> "Горячая смесь панковского напора, шугейзного шума и эмарной лирики, да еще и с нотками Radiohead!"
+
   <a class="author" href="https://open.spotify.com/user/w1he2s1iek4l2pwf28bdsbz5v"> 
     E:\music\emo
   </a>
+<br>
+
+Синглы 2025 года развивают новое направление: сухой инди-рок, инди-троника, slowcore и постпанк. Музыка становится точнее, но не теряет эмоциональности.
+
+> “Музыка noisehost — не громкая, но цепляющая. В ней много воздуха и смысла, а слова остаются с тобой.”
+
+<h3><a href="https://tr.ee/JEQA_NJzVg">Сингл "открытка"</a></h3>
+<!-- HTML !-->
+
+<div align="center">
+<iframe style="border: 0; width: 350px; height: 442px;" src="https://bandcamp.com/EmbeddedPlayer/track=1035480687/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://noisehost.bandcamp.com/track/--12">открытка by noisehost</a></iframe>
+<br><br>
 </div>
+
+
+🎧 Слушать:  
+- [«Пена» (2021)](https://open.spotify.com/album/45e55iIA559VWKXADcTbvQ)  
+- [«Мы снова встретимся» (2023)](https://open.spotify.com/album/2dS0UMaH8aOWAncuA4y8F4)  
+- [«Открытка» (2025)](https://tr.ee/JEQA_NJzVg)  
+- [Готовящиеся синглы (приват)](https://on.soundcloud.com/4cvh78pIsyXferJszT)
+
+### Живые выступления
+
+Сет noisehost — это продуманный перформанс с плавными переходами, живым вокалом и атмосферой. В основе — плёночный плейбек, аккуратный звук, и выступление, подходящее как для сидячего зала, так и для летнего бара. 
+
+<div>
+{% include youtube_player.html id=page.youtube.helsinki %}
+</div>
+
+📍 Клубы: Loophole (Берлин), концерты в Хельсинки  
+🎬 Видео: [Live @ Loophole](https://youtu.be/yYFo4nFt56s?si=km8oPFps_GG-2Z6f) | [Set в Хельсинки](https://youtu.be/C8S0MUN5yVc?si=mS4qTG0vpESh66YG)
+
+### Планы и сотрудничество
+
+Сейчас noisehost базируется в Ереване и активно ищет возможности для выступлений в Ереване, Тбилиси и Белграде.  
+Цель — познакомиться с аудиторией, найти единомышленников, вступить в локальную музыкальную среду и активно выступать. Запланированы ежемесячные синглы и коллаборации.
+
+**Интересны площадки и промоутеры** — поддержка с афишами, продвижением и кооперациями приветствуется. Технические требования минимальны.
+
+### Визуал и ссылки
+
+- [Промо-фото 1](https://noisehost-band.github.io/assets/promo/DSC1963.jpeg)  
+- [Промо-фото 2](https://noisehost-band.github.io/assets/promo/DSC1917.jpeg)  
+- [Pinterest-вдохновение](https://fr.pinterest.com/?boardId=785174584973845089)  
+- [Промо-видео Instagram](https://www.instagram.com/reel/DJ4VWResAwR/?igsh=bXR6N3NsZTlqb2o4)  
+- [Bandcamp](https://noisehost.bandcamp.com/)  
+- [Spotify](https://open.spotify.com/artist/2OEeEXfbxqLMzELHmjmcbi)
+
+
 
 
 <br>
