@@ -23,6 +23,15 @@ title: noisehost EPK
 
 **noisehost** — это сольный музыкальный проект, сочетающий вокалоцентричную инди-музыку, живые эмоции и обстановку бережного звучания. За проектом стоит артист, живший в пяти странах, сменивший академическую карьеру на путь независимого музыканта. Его музыка — отражение личных перемен, поездок, любви, потерь и внутреннего поиска.
 
+<h3><a href="https://tr.ee/JEQA_NJzVg">Сингл "открытка"</a></h3>
+<!-- HTML !-->
+
+<div align="center">
+<iframe style="border: 0; width: 350px; height: 442px;" src="https://bandcamp.com/EmbeddedPlayer/track=1035480687/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://noisehost.bandcamp.com/track/--12">открытка by noisehost</a></iframe>
+<br><br>
+</div>
+
+
 ### Звучание
 
 Звучание noisehost — это смесь инди-рока, постпанка, эмбиента и эмо. Первый EP *«Пена»* (2021) — шумный и быстрый, напоминает русскую версию Ovlov, с вокалом в духе Radiohead. Второй EP *«Мы снова встретимся»* (2023) — более спокойный и лиричный, с темами войны, ностальгии и одиночества на фоне северных пейзажей.
@@ -40,13 +49,6 @@ title: noisehost EPK
 
 > “Музыка noisehost — не громкая, но цепляющая. В ней много воздуха и смысла, а слова остаются с тобой.”
 
-<h3><a href="https://tr.ee/JEQA_NJzVg">Сингл "открытка"</a></h3>
-<!-- HTML !-->
-
-<div align="center">
-<iframe style="border: 0; width: 350px; height: 442px;" src="https://bandcamp.com/EmbeddedPlayer/track=1035480687/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://noisehost.bandcamp.com/track/--12">открытка by noisehost</a></iframe>
-<br><br>
-</div>
 
 
 🎧 Слушать:  
