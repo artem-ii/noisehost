@@ -52,10 +52,11 @@ title: noisehost EPK
 
 
 🎧 Слушать:  
-- [«Пена» (2021)](https://open.spotify.com/album/45e55iIA559VWKXADcTbvQ)  
-- [«Мы снова встретимся» (2023)](https://open.spotify.com/album/2dS0UMaH8aOWAncuA4y8F4)  
 - [«Открытка» (2025)](https://tr.ee/JEQA_NJzVg)  
 - [Готовящиеся синглы (приват)](https://on.soundcloud.com/4cvh78pIsyXferJszT)
+- [«Мы снова встретимся» (2023)](https://open.spotify.com/album/2dS0UMaH8aOWAncuA4y8F4)  
+- [«Пена» (2021)](https://open.spotify.com/album/45e55iIA559VWKXADcTbvQ)  
+
 
 ### Живые выступления
 
