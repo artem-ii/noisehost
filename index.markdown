@@ -8,13 +8,13 @@ image: "/assets/images/otkritka.jpeg"
 
 ---
 
-<h2><a href="https://tr.ee/JEQA_NJzVg">Слушайте сингл "открытка"</a></h2>
+<h2><a href="https://tr.ee/JEQA_NJzVg">Слушайте сингл "назад"</a></h2>
 <!-- HTML !-->
 
 <div align="center">
-<iframe style="border: 0; width: 350px; height: 442px;" src="https://bandcamp.com/EmbeddedPlayer/track=1035480687/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://noisehost.bandcamp.com/track/--12">открытка by noisehost</a></iframe>
+<iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=4027386253/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://noisehost.bandcamp.com/album/--3">назад by noisehost</a></iframe>
 <br><br>
-<a class="button-53" href="https://tr.ee/6RlFCk9kYw">Слушайте на стримингах</a>
+<a class="button-53" href="https://tr.ee/JEQA_NJzVg">Слушайте на стримингах</a>
 <!-- <br>
 <iframe frameborder="0" allow="clipboard-write" style="border:none;max-width:640px;max-height:150px;" width="100%" height="100%" src="https://music.yandex.ru/iframe/album/25784895/track/113627829">Слушайте <a href="https://music.yandex.ru/album/25784895/track/113627829">На закатном небе</a> — <a href="https://music.yandex.ru/artist/12659087">noisehost</a> на Яндекс Музыке</iframe> -->
 
