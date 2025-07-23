@@ -23,11 +23,11 @@ title: noisehost EPK
 
 **noisehost** — это сольный музыкальный проект, сочетающий вокалоцентричную инди-музыку, живые эмоции и обстановку бережного звучания. За проектом стоит артист, живший в пяти странах, сменивший академическую карьеру на путь независимого музыканта. Его музыка — отражение личных перемен, поездок, любви, потерь и внутреннего поиска.
 
-<h3><a href="https://tr.ee/JEQA_NJzVg">Сингл "открытка"</a></h3>
+<h3><a href="https://tr.ee/JEQA_NJzVg">Сингл "сон"</a></h3>
 <!-- HTML !-->
 
 <div align="center">
-<iframe style="border: 0; width: 350px; height: 442px;" src="https://bandcamp.com/EmbeddedPlayer/track=1035480687/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://noisehost.bandcamp.com/track/--12">открытка by noisehost</a></iframe>
+<iframe style="border: 0; width: 350px; height: 442px;" src="https://bandcamp.com/EmbeddedPlayer/track=1035480687/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://noisehost.bandcamp.com/track/--4">сон by noisehost</a></iframe>
 <br><br>
 </div>
 
