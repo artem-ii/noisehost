@@ -78,12 +78,13 @@ title: noisehost EPK
 
 ### Визуал и ссылки
 
-- [Промо-фото 1](https://noisehost-band.github.io/assets/promo/DSC1963.jpeg)  
+- ![Промо-фото 1](https://noisehost-band.github.io/assets/promo/DSC1963.jpeg)  
 - [Промо-фото 2](https://noisehost-band.github.io/assets/promo/DSC1917.jpeg)  
 - [Pinterest-вдохновение](https://fr.pinterest.com/artemiianikitin/noisehost-vibe-board/?request_params=%7B%221%22%3A%20130%2C%20%227%22%3A%208253721304111965576%2C%20%228%22%3A%20785174584973845089%2C%20%2230%22%3A%20%22noisehost%20vibe%20board%22%2C%20%2232%22%3A%2045%2C%20%2233%22%3A%20%5B785174516321343647%2C%20785174516321301031%2C%20785174516321361671%2C%20785174516321300967%2C%20785174516321301246%2C%20785174516321301348%2C%20785174516321301230%2C%20785174516321301228%2C%20785174516321301259%2C%20785174516321301272%2C%20785174516321301233%2C%20785174516321301341%2C%20785174516321301264%2C%20785174516321301232%2C%20785174516321301206%2C%20785174516321301038%5D%2C%20%2236%22%3A%20%5B785174584973845089%5D%2C%20%2237%22%3A%20%22noisehost%20vibe%20board%22%2C%20%2234%22%3A%200%2C%20%22102%22%3A%204%7D&full_feed_title=noisehost%20vibe%20board&view_parameter_type=3069&pins_display=3)  
 - [Промо-видео Instagram](https://www.instagram.com/reel/DJ4VWResAwR/?igsh=bXR6N3NsZTlqb2o4)  
 - [Bandcamp](https://noisehost.bandcamp.com/)  
-- [Spotify](https://open.spotify.com/artist/2OEeEXfbxqLMzELHmjmcbi)
+- [Spotify](https://open.spotify.com/artist/6eqArTwvx8L05LK1DcyMlR)
+
 
 
 
