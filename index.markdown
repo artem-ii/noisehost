@@ -12,7 +12,7 @@ image: "/assets/images/otkritka.jpeg"
 <!-- HTML !-->
 
 <div align="center">
-<iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=4027386253/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://noisehost.bandcamp.com/album/--3">назад by noisehost</a></iframe>
+<iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=101322164/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://noisehost.bandcamp.com/album/--4">сон by noisehost</a></iframe>
 <br><br>
 <a class="button-53" href="https://tr.ee/JEQA_NJzVg">Слушайте на стримингах</a>
 <!-- <br>
