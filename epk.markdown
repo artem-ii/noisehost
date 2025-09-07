@@ -52,15 +52,17 @@ title: noisehost EPK
 
 
 🎧 Слушать:  
-- [«Открытка» (2025)](https://tr.ee/JEQA_NJzVg)  
-- [Готовящиеся синглы (приват)](https://on.soundcloud.com/4cvh78pIsyXferJszT)
+- [«гул больших кораблей» (2025)](https://tr.ee/JEQA_NJzVg)
+- [«сон» (2025)](https://music.yandex.com/album/37307622)
+- [«назад» (2025)](https://music.yandex.com/album/36890090)
+- [«открытка» (2025)](https://open.spotify.com/album/2xUVOMiz5QLbI8XsamGqTl)
 - [«Мы снова встретимся» (2023)](https://open.spotify.com/album/2dS0UMaH8aOWAncuA4y8F4)  
 - [«Пена» (2021)](https://open.spotify.com/album/45e55iIA559VWKXADcTbvQ)  
 
 
 ### Живые выступления
 
-Сет noisehost — это продуманный перформанс с плавными переходами, живым вокалом и атмосферой. В основе — плёночный плейбек, аккуратный звук, и выступление, подходящее как для сидячего зала, так и для летнего бара. 
+Сет noisehost — это продуманный перформанс с плавными переходами, живым вокалом и атмосферой. В основе — плёночный плейбек, аккуратный звук, видеоряд и выступление, подходящее как для сидячего зала, так и для летнего бара. 
 
 <div>
 {% include youtube_player.html id=page.youtube.helsinki %}
